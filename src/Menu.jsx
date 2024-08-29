@@ -4,7 +4,7 @@ export default function
 () {
   return (
     <div className='container  w-50 '>
-        <p className='text-center'>Menu</p>
+        <p className='text-center mt-3'>Menu</p>
         <div className="row mt-5 text-center">
             <div className="col-4">
             <i class="fa-solid fa-user fs-1 text-primary text-center " />

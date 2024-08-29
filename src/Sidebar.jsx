@@ -4,7 +4,7 @@ import hicet from './assets/hicet.jpeg'
 const Sidebar = () => {
   return (
     <div className='text-center bg-primary h-100 text-white'>
-      <img className='w-75 pt-2 rounded-pill' src={hicet} alt='hicet'></img><br></br>
+      <img className='w-75 pt-2 rounded-circle' src={hicet} alt='hicet'></img><br></br>
       <i class="fa-solid fa-user-group text-white fs-1 pt-5"></i>
       <p>Student Management</p>
       <i class="fa-solid fa-inbox text-white fs-1 pt-5"></i>
